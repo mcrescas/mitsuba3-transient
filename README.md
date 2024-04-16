@@ -27,6 +27,15 @@
 <br />
 <br />
 
+
+> ⚠️ **IMPORTANT** <br />
+> This repository is no longer maintained. We have moved it to a new [repository](https://github.com/diegoroyo/mitsuba3-transient-nlos).
+
+<br />
+<br />
+<br />
+<br />
+
 # Introduction
 
 This library adds support to [Mitsuba 3](https://github.com/mitsuba-renderer/mitsuba3) for doing transient simulations. <!-- It works as an standalone python library, avoiding the need to compile the full system if you do not need anything custom. -->
